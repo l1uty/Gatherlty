@@ -12,3 +12,4 @@
 Usage: ./wkGdScan.sh -u <URL>
 # ./liuty_gather.sh -u 主域名
 ```
+注意: 每次收集结束的文件都会覆盖上一次，所以记得注意及时查看result目录下的结果文件
