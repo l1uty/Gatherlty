@@ -4,7 +4,6 @@
 
 **Usage**
 ```
-# chmod +x wkGdScan.sh
 # cd OneForAll
 # pip3 install -r requirements.txt
 # cd ..
